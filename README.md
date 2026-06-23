@@ -8,25 +8,26 @@ I am particularly interested in the mathematical foundations behind AI, includin
 
 ## Featured Projects
 
-### Khulasa — Bilingual Hybrid News Summarization
+### [Khulasa — Bilingual Hybrid News Summarization](https://huggingface.co/spaces/vmcii/khulasa)
 
 A deployed NLP application for English-Arabic news summarization using a hybrid pipeline that combines extractive and abstractive summarization techniques.
 
-### Lost and Found System — Smart Campus AI Application
+### [Lost and Found System — Smart Campus AI Application](https://huggingface.co/spaces/vmcii/lost-and-found-system)
 
 A deployed smart campus AI application for reporting and searching lost items using ResNet18 image classification, CLIP + FAISS retrieval, location filters, and fallback keyword search.
 
-### ICLR Acceptance Predictor — Calibrated ML Demo
+### [ICLR Acceptance Predictor — Calibrated ML Demo](https://huggingface.co/spaces/vmcii/iclr-acceptance-predictor)
 
 A deployed machine learning demo that predicts research paper acceptance probability using a leakage-safe two-stage pipeline, ensemble score prediction, calibrated classification, and uncertainty estimation.
 
-### ASL Classification — Computer Vision Project
+### [ASL Classification — Computer Vision Project](https://github.com/vmmci/ASL_Classification_Project)
 
 A computer vision project focused on American Sign Language image classification using deep learning techniques.
 
-### KAUST Bioinformatics Bootcamp Projects
+### [KAUST Bioinformatics Bootcamp Projects](https://github.com/vmmci/kaust-bi-bootcamp)
 
 Projects and practice work from the KAUST Bioinformatics Bootcamp, covering Python, R, Linux, and data analysis workflows.
+
 
 ## Technical Interests
 
